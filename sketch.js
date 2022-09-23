@@ -1,5 +1,3 @@
-// Find my blog at https://codeheir.com/
-// I do a lot of p5.js stuff that might interest you!
 
 let player;
 let zombies = [];
